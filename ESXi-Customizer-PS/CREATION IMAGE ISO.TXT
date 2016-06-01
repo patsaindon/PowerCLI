@@ -1,0 +1,2 @@
+cd C:\Scripts\PowerCLI\ESXi-Customizer-PS
+.\ESXi-Customizer-PS-v2.4.ps1 -v55 -izip .\len_sw_hyper_2068190depot_vmwaresx5_32-64.zip -sip -update -outDir .\Lenovo_5.5u2_2718055 -log:.\ESXi-Customizer-PS.log

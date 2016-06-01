@@ -1,0 +1,13 @@
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20160527084718
+Nom d'utilisateur : SIQ\adm-fnur85
+Utilisateur RunAs : SIQ\adm-fnur85
+Ordinateur : PT-59557 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noe -c . "C:\Program Files (x86)\VMware\Infrastructure\vSphere PowerCLI\Scripts\Initialize-PowerCLIEnvironment.ps1" $true
+ID de processus : 6916
+**********************
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20160527085423
+**********************
